@@ -12,7 +12,7 @@ public class SkillsController {
     public String HTML(){
         String HTML = "<html>" +
                 "<h1>Skills Tracker</h1>" +
-                "<h2>What skills have we learned? Here's a list.</h1>" +
+                "<h2>What skills have we learned? Here's the list.</h1>" +
                 "<ol>" +
                 "<li>Java</li>" +
                 "<li>JavaScript</li>" +
